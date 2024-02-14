@@ -17,8 +17,8 @@
 
         <div class="col-sm-4" id="colthf">
             <p>Interaja com a nossa comunidade</p>
-            <a href="#" class="btn" id="enthome">Entrar</a>
-            <a href="#" class="btn" id="enthome">Cadastrar</a>
+            <a href="login.php" class="btn" id="enthome">Entrar</a>
+            <a href="cadastro.php" class="btn" id="enthome">Cadastrar</a>
         </div>
     </div>
 </div>
